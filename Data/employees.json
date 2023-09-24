@@ -1,0 +1,802 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "William",
+    "LastName": "Martinez",
+    "AnnualSalary": 120392,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 2,
+    "FirstName": "Jane",
+    "LastName": "Johnson",
+    "AnnualSalary": 85179,
+    "IsManager": true,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 3,
+    "FirstName": "Ava",
+    "LastName": "Smith",
+    "AnnualSalary": 167230,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 4,
+    "FirstName": "Robert",
+    "LastName": "Jones",
+    "AnnualSalary": 212648,
+    "IsManager": true,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 5,
+    "FirstName": "Olivia",
+    "LastName": "Davis",
+    "AnnualSalary": 231054,
+    "IsManager": false,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 6,
+    "FirstName": "Michael",
+    "LastName": "Johnson",
+    "AnnualSalary": 156634,
+    "IsManager": true,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 7,
+    "FirstName": "Emily",
+    "LastName": "Smith",
+    "AnnualSalary": 91577,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 8,
+    "FirstName": "William",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 194841,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 9,
+    "FirstName": "Ava",
+    "LastName": "Jones",
+    "AnnualSalary": 109674,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 10,
+    "FirstName": "William",
+    "LastName": "Miller",
+    "AnnualSalary": 152918,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 11,
+    "FirstName": "Ava",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 103189,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 12,
+    "FirstName": "James",
+    "LastName": "Smith",
+    "AnnualSalary": 178977,
+    "IsManager": true,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 13,
+    "FirstName": "Ava",
+    "LastName": "Smith",
+    "AnnualSalary": 78144,
+    "IsManager": true,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 14,
+    "FirstName": "James",
+    "LastName": "Miller",
+    "AnnualSalary": 118218,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 15,
+    "FirstName": "Olivia",
+    "LastName": "Miller",
+    "AnnualSalary": 75459,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 16,
+    "FirstName": "John",
+    "LastName": "Williams",
+    "AnnualSalary": 163664,
+    "IsManager": true,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 17,
+    "FirstName": "Sophia",
+    "LastName": "Miller",
+    "AnnualSalary": 119665,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 18,
+    "FirstName": "Ava",
+    "LastName": "Garcia",
+    "AnnualSalary": 54084,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 19,
+    "FirstName": "Jane",
+    "LastName": "Williams",
+    "AnnualSalary": 144891,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 20,
+    "FirstName": "William",
+    "LastName": "Smith",
+    "AnnualSalary": 109346,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 21,
+    "FirstName": "Jane",
+    "LastName": "Brown",
+    "AnnualSalary": 106832,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 22,
+    "FirstName": "Emily",
+    "LastName": "Williams",
+    "AnnualSalary": 178072,
+    "IsManager": false,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 23,
+    "FirstName": "Robert",
+    "LastName": "Johnson",
+    "AnnualSalary": 236599,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 24,
+    "FirstName": "Olivia",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 165043,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 25,
+    "FirstName": "Emily",
+    "LastName": "Jones",
+    "AnnualSalary": 118227,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 26,
+    "FirstName": "Ava",
+    "LastName": "Martinez",
+    "AnnualSalary": 166967,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 27,
+    "FirstName": "Jane",
+    "LastName": "Johnson",
+    "AnnualSalary": 85289,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 28,
+    "FirstName": "James",
+    "LastName": "Martinez",
+    "AnnualSalary": 221138,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 29,
+    "FirstName": "Robert",
+    "LastName": "Davis",
+    "AnnualSalary": 70346,
+    "IsManager": true,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 30,
+    "FirstName": "James",
+    "LastName": "Smith",
+    "AnnualSalary": 223273,
+    "IsManager": true,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 31,
+    "FirstName": "Ava",
+    "LastName": "Martinez",
+    "AnnualSalary": 106081,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 32,
+    "FirstName": "Ava",
+    "LastName": "Johnson",
+    "AnnualSalary": 160971,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 33,
+    "FirstName": "Robert",
+    "LastName": "Martinez",
+    "AnnualSalary": 243422,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 34,
+    "FirstName": "John",
+    "LastName": "Davis",
+    "AnnualSalary": 67192,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 35,
+    "FirstName": "Michael",
+    "LastName": "Smith",
+    "AnnualSalary": 52396,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 36,
+    "FirstName": "Michael",
+    "LastName": "Garcia",
+    "AnnualSalary": 196186,
+    "IsManager": false,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 37,
+    "FirstName": "Michael",
+    "LastName": "Jones",
+    "AnnualSalary": 70149,
+    "IsManager": false,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 38,
+    "FirstName": "Sophia",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 123014,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 39,
+    "FirstName": "Ava",
+    "LastName": "Brown",
+    "AnnualSalary": 143531,
+    "IsManager": false,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 40,
+    "FirstName": "Olivia",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 227033,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 41,
+    "FirstName": "Robert",
+    "LastName": "Brown",
+    "AnnualSalary": 104795,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 42,
+    "FirstName": "Ava",
+    "LastName": "Jones",
+    "AnnualSalary": 197893,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 43,
+    "FirstName": "Jane",
+    "LastName": "Williams",
+    "AnnualSalary": 88842,
+    "IsManager": false,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 44,
+    "FirstName": "William",
+    "LastName": "Brown",
+    "AnnualSalary": 94268,
+    "IsManager": false,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 45,
+    "FirstName": "Olivia",
+    "LastName": "Smith",
+    "AnnualSalary": 219224,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 46,
+    "FirstName": "Jane",
+    "LastName": "Johnson",
+    "AnnualSalary": 204960,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 47,
+    "FirstName": "Robert",
+    "LastName": "Smith",
+    "AnnualSalary": 218495,
+    "IsManager": true,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 48,
+    "FirstName": "John",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 245062,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 49,
+    "FirstName": "Emily",
+    "LastName": "Jones",
+    "AnnualSalary": 97194,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 50,
+    "FirstName": "William",
+    "LastName": "Martinez",
+    "AnnualSalary": 64416,
+    "IsManager": false,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 51,
+    "FirstName": "Sophia",
+    "LastName": "Martinez",
+    "AnnualSalary": 207923,
+    "IsManager": true,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 52,
+    "FirstName": "Olivia",
+    "LastName": "Davis",
+    "AnnualSalary": 238133,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 53,
+    "FirstName": "John",
+    "LastName": "Johnson",
+    "AnnualSalary": 118858,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 54,
+    "FirstName": "Robert",
+    "LastName": "Smith",
+    "AnnualSalary": 218586,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 55,
+    "FirstName": "Sophia",
+    "LastName": "Miller",
+    "AnnualSalary": 64782,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 56,
+    "FirstName": "William",
+    "LastName": "Brown",
+    "AnnualSalary": 198664,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 57,
+    "FirstName": "Michael",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 166209,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 58,
+    "FirstName": "Robert",
+    "LastName": "Martinez",
+    "AnnualSalary": 92913,
+    "IsManager": true,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 59,
+    "FirstName": "James",
+    "LastName": "Jones",
+    "AnnualSalary": 118809,
+    "IsManager": false,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 60,
+    "FirstName": "Michael",
+    "LastName": "Smith",
+    "AnnualSalary": 203888,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 61,
+    "FirstName": "James",
+    "LastName": "Miller",
+    "AnnualSalary": 203909,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 62,
+    "FirstName": "John",
+    "LastName": "Miller",
+    "AnnualSalary": 87677,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 63,
+    "FirstName": "James",
+    "LastName": "Jones",
+    "AnnualSalary": 171884,
+    "IsManager": true,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 64,
+    "FirstName": "James",
+    "LastName": "Miller",
+    "AnnualSalary": 147695,
+    "IsManager": true,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 65,
+    "FirstName": "James",
+    "LastName": "Brown",
+    "AnnualSalary": 214613,
+    "IsManager": false,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 66,
+    "FirstName": "Jane",
+    "LastName": "Jones",
+    "AnnualSalary": 101472,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 67,
+    "FirstName": "William",
+    "LastName": "Garcia",
+    "AnnualSalary": 72487,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 68,
+    "FirstName": "Robert",
+    "LastName": "Jones",
+    "AnnualSalary": 179093,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 69,
+    "FirstName": "William",
+    "LastName": "Brown",
+    "AnnualSalary": 167159,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 70,
+    "FirstName": "Michael",
+    "LastName": "Garcia",
+    "AnnualSalary": 83953,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 71,
+    "FirstName": "Robert",
+    "LastName": "Smith",
+    "AnnualSalary": 60453,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 72,
+    "FirstName": "Olivia",
+    "LastName": "Brown",
+    "AnnualSalary": 215624,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 73,
+    "FirstName": "Sophia",
+    "LastName": "Miller",
+    "AnnualSalary": 70538,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 74,
+    "FirstName": "John",
+    "LastName": "Miller",
+    "AnnualSalary": 165141,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 75,
+    "FirstName": "Emily",
+    "LastName": "Davis",
+    "AnnualSalary": 115283,
+    "IsManager": true,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 76,
+    "FirstName": "Olivia",
+    "LastName": "Martinez",
+    "AnnualSalary": 107055,
+    "IsManager": false,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 77,
+    "FirstName": "Emily",
+    "LastName": "Garcia",
+    "AnnualSalary": 65427,
+    "IsManager": false,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 78,
+    "FirstName": "Sophia",
+    "LastName": "Smith",
+    "AnnualSalary": 98863,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 79,
+    "FirstName": "Robert",
+    "LastName": "Martinez",
+    "AnnualSalary": 157988,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 80,
+    "FirstName": "Olivia",
+    "LastName": "Davis",
+    "AnnualSalary": 238690,
+    "IsManager": true,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 81,
+    "FirstName": "Robert",
+    "LastName": "Smith",
+    "AnnualSalary": 195761,
+    "IsManager": true,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 82,
+    "FirstName": "Robert",
+    "LastName": "Williams",
+    "AnnualSalary": 224570,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 83,
+    "FirstName": "Michael",
+    "LastName": "Williams",
+    "AnnualSalary": 149485,
+    "IsManager": true,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 84,
+    "FirstName": "Ava",
+    "LastName": "Davis",
+    "AnnualSalary": 172486,
+    "IsManager": false,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 85,
+    "FirstName": "Ava",
+    "LastName": "Garcia",
+    "AnnualSalary": 143999,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 86,
+    "FirstName": "Olivia",
+    "LastName": "Rodriguez",
+    "AnnualSalary": 83054,
+    "IsManager": false,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 87,
+    "FirstName": "John",
+    "LastName": "Davis",
+    "AnnualSalary": 81668,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 88,
+    "FirstName": "Sophia",
+    "LastName": "Garcia",
+    "AnnualSalary": 185604,
+    "IsManager": true,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 89,
+    "FirstName": "Jane",
+    "LastName": "Brown",
+    "AnnualSalary": 128357,
+    "IsManager": true,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 90,
+    "FirstName": "John",
+    "LastName": "Johnson",
+    "AnnualSalary": 69572,
+    "IsManager": true,
+    "DepartmentId": 1
+  },
+  {
+    "Id": 91,
+    "FirstName": "John",
+    "LastName": "Davis",
+    "AnnualSalary": 217852,
+    "IsManager": false,
+    "DepartmentId": 5
+  },
+  {
+    "Id": 92,
+    "FirstName": "James",
+    "LastName": "Miller",
+    "AnnualSalary": 166911,
+    "IsManager": false,
+    "DepartmentId": 7
+  },
+  {
+    "Id": 93,
+    "FirstName": "James",
+    "LastName": "Williams",
+    "AnnualSalary": 232112,
+    "IsManager": false,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 94,
+    "FirstName": "Ava",
+    "LastName": "Smith",
+    "AnnualSalary": 165875,
+    "IsManager": false,
+    "DepartmentId": 4
+  },
+  {
+    "Id": 95,
+    "FirstName": "Sophia",
+    "LastName": "Martinez",
+    "AnnualSalary": 218065,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 96,
+    "FirstName": "Michael",
+    "LastName": "Johnson",
+    "AnnualSalary": 193159,
+    "IsManager": false,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 97,
+    "FirstName": "Jane",
+    "LastName": "Jones",
+    "AnnualSalary": 236203,
+    "IsManager": false,
+    "DepartmentId": 6
+  },
+  {
+    "Id": 98,
+    "FirstName": "Robert",
+    "LastName": "Davis",
+    "AnnualSalary": 119953,
+    "IsManager": true,
+    "DepartmentId": 3
+  },
+  {
+    "Id": 99,
+    "FirstName": "Ava",
+    "LastName": "Smith",
+    "AnnualSalary": 107399,
+    "IsManager": true,
+    "DepartmentId": 2
+  },
+  {
+    "Id": 100,
+    "FirstName": "Emily",
+    "LastName": "Jones",
+    "AnnualSalary": 71886,
+    "IsManager": false,
+    "DepartmentId": 2
+  }
+]

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndoLINQ", "AndoLINQ\AndoLINQ.csproj", "{016AA477-C63C-4F5A-B1C3-212389E6EF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{AC6F994C-1BB8-430B-88EB-D6EFDAA9698B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{534E11E8-5A36-45A7-ABC2-6DDA9CD9E240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016AA477-C63C-4F5A-B1C3-212389E6EF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016AA477-C63C-4F5A-B1C3-212389E6EF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016AA477-C63C-4F5A-B1C3-212389E6EF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016AA477-C63C-4F5A-B1C3-212389E6EF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6F994C-1BB8-430B-88EB-D6EFDAA9698B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6F994C-1BB8-430B-88EB-D6EFDAA9698B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6F994C-1BB8-430B-88EB-D6EFDAA9698B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6F994C-1BB8-430B-88EB-D6EFDAA9698B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534E11E8-5A36-45A7-ABC2-6DDA9CD9E240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534E11E8-5A36-45A7-ABC2-6DDA9CD9E240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534E11E8-5A36-45A7-ABC2-6DDA9CD9E240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534E11E8-5A36-45A7-ABC2-6DDA9CD9E240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C74097C0-0E4E-40F4-9902-EA4BD7EDD1CF}
+	EndGlobalSection
+EndGlobal
